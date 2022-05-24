@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mim\\Documents\\Schule\\TAF 3\\Quizzlle\\Quizzlle\\Quizzlle\\Quizzlle.csproj",
+      "projectUniqueName": "C:\\Users\\mim\\Source\\Repos\\Quizzlle\\Quizzlle\\Quizzlle.csproj",
       "projectName": "Quizzlle",
-      "projectPath": "C:\\Users\\mim\\Documents\\Schule\\TAF 3\\Quizzlle\\Quizzlle\\Quizzlle\\Quizzlle.csproj",
+      "projectPath": "C:\\Users\\mim\\Source\\Repos\\Quizzlle\\Quizzlle\\Quizzlle.csproj",
       "packagesPath": "C:\\Users\\mim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mim\\Documents\\Schule\\TAF 3\\Quizzlle\\Quizzlle\\Quizzlle\\obj\\",
+      "outputPath": "C:\\Users\\mim\\Source\\Repos\\Quizzlle\\Quizzlle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mim\\AppData\\Roaming\\NuGet\\NuGet.Config",
