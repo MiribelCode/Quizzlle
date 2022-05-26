@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Quizzlle
 {
@@ -20,6 +21,19 @@ namespace Quizzlle
             Application.Run(new Form1());
 
             //start
+        }
+
+        private void Connect()
+        {
+            string connectionString = @"";
+
+            SqlConnection connection = new SqlConnection(connectionString);
+
+            connection.Open();
+
+
+
+            connection.Close();
         }
     }
 }
